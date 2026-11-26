@@ -6,7 +6,7 @@ I build full-stack products, real-time AI tools and automation that run in produ
 
 - 🏛️ **One Taldor (2018–present):** automation pipelines that configured **2,700 exam workstations in under 10 days** across three government ministries, plus an exam scanner and management system with OCR and Google Document AI
 - 🤖 Real-time voice and vision AI with LiveKit, OpenAI and FastAPI
-- ☀️ Full-stack platforms with Next.js, NestJS, FastAPI and PostgreSQL
+- ☀️ Full-stack SaaS with Next.js, NestJS, FastAPI and PostgreSQL, from multi-tenant security to CI
 - 🌐 Interactive 3D on the web with three.js, GLSL and Blender
 
 [**Portfolio →**](https://stato10.github.io/portfolio/)
@@ -17,6 +17,7 @@ I build full-stack products, real-time AI tools and automation that run in produ
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
+| **Merkaz CRM** | Multi-tenant Hebrew CRM for sales and service: Postgres row-level security, REST API, signed webhooks, a Claude agent and an MCP server, 63 tests and CI | Next.js · TypeScript · PostgreSQL · Claude API | [Live](https://merkaz-crm-omega.vercel.app) · [Code](https://github.com/stato10/merkaz-crm) |
 | **Interview Avatar Coach** | AI interview coaching with real-time voice, vision and an avatar | FastAPI · LiveKit · GPT-4o · React · TypeScript | [Code](https://github.com/stato10/interviewAvatar) |
 | **Local AI Assistant** | Private Hebrew chat that runs open LLMs fully on a laptop GPU, with model switching and a calculator tool | Python · FastAPI · Ollama · Qwen 3.5 | [Code](https://github.com/stato10/private-ai-assistant) |
 | **Solar Intelligence Platform** | Monorepo for solar forecasts, risk scoring and ROI estimates from real weather and geo providers | Next.js · NestJS · FastAPI · PostgreSQL/Prisma · Docker | [Code](https://github.com/stato10/Solar-Intelligence-Platform) |
