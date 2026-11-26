@@ -18,6 +18,7 @@ I build full-stack products, real-time AI tools and automation that run in produ
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | **Interview Avatar Coach** | AI interview coaching with real-time voice, vision and an avatar | FastAPI · LiveKit · GPT-4o · React · TypeScript | [Code](https://github.com/stato10/interviewAvatar) |
+| **Local AI Assistant** | Private Hebrew chat that runs open LLMs fully on a laptop GPU, with model switching and a calculator tool | Python · FastAPI · Ollama · Qwen 3.5 | [Code](https://github.com/stato10/private-ai-assistant) |
 | **Solar Intelligence Platform** | Monorepo for solar forecasts, risk scoring and ROI estimates from real weather and geo providers | Next.js · NestJS · FastAPI · PostgreSQL/Prisma · Docker | [Code](https://github.com/stato10/Solar-Intelligence-Platform) |
 | **KRYO** | A cinematic, scroll-driven 3D landing page with Blender-built models | three.js · GLSL · GSAP · Blender | [Live](https://stato10.github.io/kryo-landing/) · [Code](https://github.com/stato10/kryo-landing) |
 | **STATO OS** | My portfolio, built as a desktop operating system in the browser | React · Vite · Tailwind · GSAP | [Live](https://stato10.github.io/portfolio/) · [Code](https://github.com/stato10/portfolio) |
