@@ -5,7 +5,7 @@
 I build full-stack products, real-time AI tools and automation that run in production. I hold a Software Engineering diploma from Ort Singalovski College.
 
 - 🏛️ **Software Engineer & Automation Developer · One Taldor** (2018–present)
-  - Build the production automation behind Windows deployments at government exam sites, in PowerShell, Python and SQL. A public version of this work: [Windows Workstation Migration](https://github.com/stato10/windows-workstation-migration)
+  - Build the production automation behind Windows deployments at government exam sites, in PowerShell, Python and SQL. Related project: [Windows Workstation Migration](https://github.com/stato10/windows-workstation-migration)
   - Designed and built an exam scanning and management system with OCR and Google Document AI, now used in production
 - 🤖 Real-time voice and vision AI with LiveKit, OpenAI and FastAPI
 - ☀️ Full-stack SaaS with Next.js, NestJS, FastAPI and PostgreSQL, from multi-tenant security to CI
