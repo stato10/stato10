@@ -2,9 +2,12 @@
 
 **Junior Software Engineer · Full Stack · AI & Systems Automation**
 
-I build full-stack products, real-time AI tools and automation that run in production. I hold a Software Engineering diploma from Ort Singalovski College, and at work I build the internal tools behind nationwide government exams.
+I build full-stack products, real-time AI tools and automation that run in production. I hold a Software Engineering diploma from Ort Singalovski College.
 
-- 🏛️ **One Taldor (2018–present):** automation pipelines that configured **2,700 exam workstations in under 10 days** across three government ministries, plus an exam scanner and management system with OCR and Google Document AI
+- 🏛️ **Software Engineer & Automation Developer · One Taldor** (2018–present)
+  - Automated the setup of **2,700 government exam workstations** for three ministries in under 10 days: 30% faster than the manual process, with zero errors
+  - Designed and built an **exam scanning and management system** that extracts exam data automatically with OCR and Google Document AI and identifies candidates instantly by QR or barcode
+  - Keep the exam infrastructure for national and OECD assessments (PISA, TIMSS) running with zero downtime
 - 🤖 Real-time voice and vision AI with LiveKit, OpenAI and FastAPI
 - ☀️ Full-stack SaaS with Next.js, NestJS, FastAPI and PostgreSQL, from multi-tenant security to CI
 - 🌐 Interactive 3D on the web with three.js, GLSL and Blender
